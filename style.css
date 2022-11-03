@@ -21,13 +21,16 @@ body{
 }
 
 h1{
-    font-size: 4em;
+    font-size: 5em;
     font-weight: 600;
+}
+
+h2{
+    font-size: 4em;
 }
 
 h3{
     font-size: 2em;
-    margin-top: 2em;
 }
 
 .mensagem{
